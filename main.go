@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-exercise/piscine"
+	"piscine/piscine"
 )
 
 func main() {
